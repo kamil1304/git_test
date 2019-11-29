@@ -1,6 +1,9 @@
 #include <iostrream>
 
+
 using namespace std;
+void a(){}
+
 int main(){
 
 cout<<"HEllo world"<<endl;
