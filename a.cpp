@@ -3,6 +3,7 @@
 
 using namespace std;
 void a(){}
+void seocnd(){}
 
 int main(){
 
